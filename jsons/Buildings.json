@@ -11,6 +11,6 @@
 		"cost": 140,
 		"uniques": ["Hero Spawner","[-10]% Production when constructing [Hero Spawner] wonders [in all cities]","[-2 Culture] <after adopting [Constitution]>",
 			    "Only available <if [Neutral] is constructed>",
-                            "Provides 1 [Apotropaic Ring]"],
+                            "Provides [1] [Apotropaic Ring]"],
 	},
 ]
