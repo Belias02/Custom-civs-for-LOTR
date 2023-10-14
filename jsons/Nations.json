@@ -2,14 +2,13 @@
   {
 		"name": "The isolationists",
 		"leaderName": "The inmortal",
-	  "style": "Belias",
+	        "style": "Belias",
 		"adjective": ["Isolist"],
 		"outerColor": [39,126,205],
 		"innerColor": [255,255,255],
 
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Islam",
 	  
 		"startIntroPart1": "",
 		"startIntroPart2": "",
