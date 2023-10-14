@@ -24,6 +24,7 @@
 		"uniqueName": "Peaceful Progress",
 		"uniques": [ "[+20]% Production when constructing [All] wonders [in all cities]",
 "[+2 Production] from [Mountain] tiles [in all cities]",
+"Land units may cross [Mountain] tiles after the first [Worker] is earned",
 "Units ignore terrain costs when moving into any tile with Hills",
       "Gain a free [Rings] [in capital]",
       "Gain a free [Neutral] [in capital]",
