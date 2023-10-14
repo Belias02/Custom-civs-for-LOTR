@@ -9,6 +9,6 @@
 			"[+1 Production] <after discovering [Architecture]>",
 			"[+1 Food] <after discovering [Civil Service]>",
       "Pillaging this improvement yields approximately [+10 Gold]"],
-		"techRequired": "Construction",
+		"techRequired": "Agriculture",
 	},
 ]
