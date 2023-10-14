@@ -1,0 +1,8 @@
+[
+  {
+		"name": "Neutral",
+		"isNationalWonder": true,
+		"gold": 2,
+		"uniques": ["[-2 Culture] <after adopting [Constitution]>","Unbuildable"],
+	},
+]
