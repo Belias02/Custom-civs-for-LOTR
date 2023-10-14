@@ -1,2 +1,34 @@
 [
+  {
+		"name": "The isolationists",
+		"leaderName": "The inmortal",
+	  "style": "Belias",
+		"adjective": ["Isolist"],
+		"outerColor": [39,126,205],
+		"innerColor": [255,255,255],
+
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Islam",
+	  
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+ 
+	        "introduction": "Greetings.",
+	        "declaringWar": "Not on my watch.",
+     	    "attacked": "As expected.",
+		      "afterPeace": "I still don't trust you.",
+		      "defeated": "Enjoy peace, it would not last.",
+          "neutralHello": "Good day.",
+    	    "hateHello": "You are not welcome here.",
+    	    "tradeRequest": "Is this fair?",
+		"uniqueName": "Peaceful Progress",
+		"uniques": [ "[+20]% Production when constructing [All] wonders [in all cities]",
+"[+2 Production] from [Mountain] tiles [in all cities]",
+"Units ignore terrain costs when moving in the any tile with Hills",
+      "Gain a free [Rings] [in capital]",
+      "Gain a free [Neutral] [in capital]",
+		],
+		"cities": ["Monolith","Wonderfort","Puerto Unión","Peace","Cumbres","Hilltown","Mara",]
+  },
 ]
