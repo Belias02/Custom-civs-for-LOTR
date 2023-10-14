@@ -12,4 +12,15 @@
 			"[25]% Strength <vs [Balrog] units>",
 "All adjacent units heal [10] HP when healing"],
 	},
+	{
+		"name": "Wizard",
+   "replaces": "Crossbowman",
+   "uniqueTo": "The isolationists",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 22,
+		"cost": 120,
+		"requiredTech": "Education"
+	},
 ]
