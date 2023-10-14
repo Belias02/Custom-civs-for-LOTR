@@ -1,0 +1,15 @@
+[
+  {
+		"name": "Ring Bearer",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 16,
+		"range": 2,
+		"cost": 100,
+		"promotions": ["Hero"],
+		"uniques": ["Never appears as a Barbarian unit","Consumes [1] [Apotropaic Ring]", "Only available <with [Apotropaic Ring]>", 
+			"[25]% Strength <vs [Balrog] units>",
+"All adjacent units heal [10] HP when healing"],
+	},
+]
