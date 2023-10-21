@@ -3,4 +3,9 @@
 		"name": "Apotropaic Ring",
 		"resourceType": "Luxury",
 	},
+	
+  {
+		"name": "Inmortal Soul",
+		"resourceType": "Luxury",
+	},
 ]
