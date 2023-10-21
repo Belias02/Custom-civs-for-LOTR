@@ -13,4 +13,12 @@
 			    "Only available <if [Neutral] is constructed>",
                             "Provides [1] [Apotropaic Ring]"],
 	},
+	{
+		"name": "Summon The Inmortal",
+		"isWonder": true,
+		"cost": 190,
+		"uniques": ["Hero Spawner","[-30]% Production when constructing [Hero Spawner] wonders [in all cities]","[-2 Culture] <after adopting [Constitution]>","Free [The Inmortal] appears",
+"Provides [1] [Inmortal Soul]"
+"Only available <if [Neutral] is constructed>"],
+	},
 ]
