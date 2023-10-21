@@ -30,6 +30,6 @@
 		"strength": 20,
                 "cost": 120,
 		"promotions": ["Hero"],
-		"uniques": ["Consumes [1] [Inmortal Soul]", "Unbuildable", "[Only available <with [Inmortal Soul]>","Unit will heal every turn, even if it performs an action"],
+		"uniques": ["Consumes [1] [Inmortal Soul]","[Only available <with [Inmortal Soul]>","Unit will heal every turn, even if it performs an action"],
 	},
 ]
