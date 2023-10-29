@@ -30,7 +30,7 @@
    "cityStrength": 4,
 		"cityHealth": 25,
 		"requiredBuilding": "Library",
-		"uniques": ["Must be next to [Mountains]"],
+		"uniques": ["Must be next to [Mountain]"],
 		"requiredTech": "Astronomy"
 	},
 ]
